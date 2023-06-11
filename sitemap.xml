@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://12.com/index.html</loc>
+    <lastmod>2020-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://12.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://12.com/images/my.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://12.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84%E5%9B%BE%E5%83%8F%20800x589.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://12.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84%E5%9B%BE%E5%83%8F%20400x400.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

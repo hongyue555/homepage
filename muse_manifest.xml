@@ -1,0 +1,45 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="12.com" resolutions="1x" timestamp="1594981382064">
+  <folder name="css">
+    <file name="site_global.css" crc="390531571"/>
+    <file name="master_a-__.css" crc="457585286" ref="index"/>
+    <file name="index.css" crc="81814890" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="my.jpg" crc="178539174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的图像 800x589.jpg" crc="4103950431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的图像 400x400.jpg" crc="451369695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的图像 800x58921x16.jpg" crc="499577904" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="粘贴的图像 400x40020x20.jpg" crc="190396582" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="my-crop-u548.jpg" crc="507892550" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-__.css" crc="3789044427" ref="phone>index"/>
+      <file name="index.css" crc="397386398" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3842301856" seo="true" mt="1594981370334" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="36421656" seo="true" mt="1594980789915" redirect="true"/>
+</manifest>
